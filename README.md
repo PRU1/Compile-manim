@@ -16,7 +16,7 @@ A more user-friendly way to compile Manim using an MFC dialog application (curre
 
 ## Learn the controls
 
-![Image of application](
+![Image of application](https://github.com/PRU1/Compile-manim/blob/master/applicationImage.png)
 
 
 ## Things that need to be changed
