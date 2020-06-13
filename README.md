@@ -14,6 +14,7 @@ A more user-friendly way to compile Manim using an MFC dialog application (curre
 8. Save and close this file. Do not delete this file or change its file name or the application will not work
 9. Now you can use the app!
 
+**Note:** This repository has the source files contained in it as well. If you only wish to use the application (manimCompile2.exe) you can delete all the other files.
 ## Learn the controls
 
 ![Image of application](https://github.com/PRU1/Compile-manim/blob/master/applicationImage.png)
